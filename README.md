@@ -1,6 +1,8 @@
 # ShoppingList
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3.
+This is a course project from Maximilian Schwarzmüller's course at [Udemy](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview)
+
+The project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3.
 
 ## Development server
 
