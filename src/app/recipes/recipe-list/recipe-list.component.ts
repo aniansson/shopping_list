@@ -9,7 +9,9 @@ import { Recipe } from '../recipe.model';
 export class RecipeListComponent {
     recipes: Recipe[] = [
         new Recipe('Meatballs', 'Homemade meatballs with mashed potatoes and a delicious sauce',
-            'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Koettbullar_stockholm2006.jpg/800px-Koettbullar_stockholm2006.jpg')
+            'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Koettbullar_stockholm2006.jpg/800px-Koettbullar_stockholm2006.jpg'),
+        new Recipe('Pizza', 'Fresh, homemade and crispy Pizza, right from the oven!',
+            'https://upload.wikimedia.org/wikipedia/commons/d/d1/Pepperoni_pizza.jpg')
     ];
 
     constructor() { }
